@@ -1,0 +1,36 @@
+.buttons {
+  margin-left: 40px;
+}
+
+.button {
+  margin-left: 20px;
+}
+
+.buttons_tree {
+  width: 119px;
+  height: 31px;
+  border: 1px solid #4b48db;
+  border-radius: 20px;
+  margin: 4px;
+}
+
+.text_post_feed {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 16px;
+  color: #4440f7;
+}
+
+.item_block {
+  list-style-type: none;
+}
+
+.item {
+  margin: 5px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #111321;
+}
